@@ -1,0 +1,15 @@
+C:\Programmering\Lucktext\Lucktext\bin\Debug\net6.0\Lucktext.exe
+C:\Programmering\Lucktext\Lucktext\bin\Debug\net6.0\Lucktext.deps.json
+C:\Programmering\Lucktext\Lucktext\bin\Debug\net6.0\Lucktext.runtimeconfig.json
+C:\Programmering\Lucktext\Lucktext\bin\Debug\net6.0\Lucktext.dll
+C:\Programmering\Lucktext\Lucktext\bin\Debug\net6.0\Lucktext.pdb
+C:\Programmering\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.csproj.AssemblyReference.cache
+C:\Programmering\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.AssemblyInfoInputs.cache
+C:\Programmering\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.AssemblyInfo.cs
+C:\Programmering\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.csproj.CoreCompileInputs.cache
+C:\Programmering\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.dll
+C:\Programmering\Lucktext\Lucktext\obj\Debug\net6.0\refint\Lucktext.dll
+C:\Programmering\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.pdb
+C:\Programmering\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.genruntimeconfig.cache
+C:\Programmering\Lucktext\Lucktext\obj\Debug\net6.0\ref\Lucktext.dll
