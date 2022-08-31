@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\Programmering\\Lucktext\\Lucktext\\Lucktext.csproj",
         "projectName": "Lucktext",
         "projectPath": "C:\\Programmering\\Lucktext\\Lucktext\\Lucktext.csproj",
-        "packagesPath": "C:\\Users\\TEMP.LEARNET.008\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\TEMP.LEARNET.009\\.nuget\\packages\\",
         "outputPath": "C:\\Programmering\\Lucktext\\Lucktext\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\TEMP.LEARNET.008\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TEMP.LEARNET.009\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
